@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="124" viewBox="0 0 1200 124" role="img" aria-label="The approach: Make it useful. Make it clear. Make it better.">
+<title>The approach: Make it useful. Make it clear. Make it better.</title>
+<defs><linearGradient id="line"><stop stop-color="#b8ffd9"/><stop offset="1" stop-color="#bc91e4"/></linearGradient></defs>
+<rect width="1200" height="124" rx="18" fill="#1b1727"/>
+<rect x="28" y="27" width="4" height="70" rx="2" fill="url(#line)"/>
+<text x="52" y="57" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#b8ffd9">THE APPROACH</text>
+<text x="52" y="89" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#f4ecfb">Make it useful. Make it clear. Make it better.</text>
+<text x="978" y="77" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#c5b8d2">&lt; / sharina &gt;</text>
+</svg>
