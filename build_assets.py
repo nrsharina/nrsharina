@@ -42,7 +42,7 @@ write('hero.svg', '''
 <text x="106" y="61" fill="#e9e4f4" font-size="17" letter-spacing="2">NRSHARINA</text>
 <circle cx="991" cy="54" r="4" fill="#b8ffd9" class="beacon"/>
 <text x="1006" y="60" fill="#c4b9d3" font-size="15" letter-spacing="2">MALAYSIA</text>
-<text x="48" y="132" fill="#b8ffd9" font-size="16" letter-spacing="3">DEVELOPER / CURIOUS BY DESIGN</text>
+<text x="48" y="132" fill="#b8ffd9" font-size="16" letter-spacing="3">INTERN / LEARNING BY BUILDING</text>
 <text x="41" y="241" fill="#f7f1ff" font-size="106" font-weight="700" letter-spacing="-6">Sharina<tspan fill="#b8ffd9">.</tspan></text>
 <g clip-path="url(#name)"><rect x="0" y="145" width="220" height="115" fill="url(#sheen)" class="shine"/></g>
 <text x="48" y="298" fill="#f4ecfb" font-size="30">Real problems. Thoughtful software.</text>
