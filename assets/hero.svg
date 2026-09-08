@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Sharina. Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia.">
+<title>Sharina. Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia.</title>
+
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14121f"/><stop offset="1" stop-color="#30203e"/></linearGradient>
+  <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b8ffd9"/><stop offset=".5" stop-color="#c2b3ff"/><stop offset="1" stop-color="#e69cc9"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#be91e9" stop-opacity=".23"/><stop offset="1" stop-color="#be91e9" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+</defs>
+<style>
+@keyframes breathe { 0%,100%{opacity:.4}50%{opacity:1} }
+@keyframes signal { to {stroke-dashoffset:-64} }
+.signal{animation:signal 9s linear infinite}.beacon{animation:breathe 4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.signal,.beacon{animation:none}}
+</style>
+<rect width="1200" height="460" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="460" rx="24" fill="url(#grid)"/>
+<circle cx="945" cy="210" r="265" fill="url(#halo)"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<rect x="48" y="36" width="44" height="38" rx="10" fill="#b8ffd9"/>
+<text x="57" y="63" fill="#181522" font-size="23" font-weight="700">s/</text>
+<text x="106" y="61" fill="#e9e4f4" font-size="17" letter-spacing="2">NRSHARINA</text>
+<circle cx="991" cy="54" r="4" fill="#b8ffd9" class="beacon"/>
+<text x="1006" y="60" fill="#c4b9d3" font-size="15" letter-spacing="2">MALAYSIA</text>
+<text x="48" y="132" fill="#b8ffd9" font-size="16" letter-spacing="3">DEVELOPER / CURIOUS BY DESIGN</text>
+<text x="41" y="241" fill="#f7f1ff" font-size="106" font-weight="700" letter-spacing="-6">Sharina<tspan fill="#b8ffd9">.</tspan></text>
+<text x="48" y="298" fill="#f4ecfb" font-size="30">Real problems. Thoughtful software.</text>
+<text x="48" y="338" fill="#c4b9d3" font-size="19">Web applications · Solar tech · Geospatial tools</text>
+<path d="M48 390H1152" stroke="#786685" stroke-opacity=".45"/>
+<text x="48" y="428" fill="#b8ffd9" font-size="14" letter-spacing="2">UNDERSTAND → BUILD → REFINE</text>
+<text x="855" y="428" fill="#c4b9d3" font-size="14" letter-spacing="2">ALWAYS A WORK IN PROGRESS</text>
+</g>
+<!-- Abstract solar orbit: decorative artwork, not an architecture diagram. -->
+<g transform="translate(957 229)">
+<circle r="117" fill="none" stroke="#af92cb" stroke-opacity=".28"/>
+<circle r="82" fill="none" stroke="#af92cb" stroke-opacity=".22"/>
+<ellipse rx="168" ry="56" transform="rotate(-34)" fill="none" stroke="url(#orb)" stroke-width="1.5"/>
+<ellipse rx="165" ry="61" transform="rotate(38)" fill="none" stroke="#b8ffd9" stroke-opacity=".35"/>
+<circle r="142" fill="none" stroke="#b8ffd9" stroke-opacity=".3" stroke-dasharray="2 14" class="signal"/>
+<path d="M0-75C8-22 22-8 75 0C22 8 8 22 0 75C-8 22-22 8-75 0C-22-8-8-22 0-75Z" fill="url(#orb)"/>
+<circle cx="0" cy="0" r="10" fill="#f5f0fc"/>
+<circle cx="-128" cy="76" r="7" fill="#b8ffd9"/>
+<circle cx="132" cy="-67" r="5" fill="#dbb5ff" class="beacon"/>
+<path d="M-168-90h16m-8-8v16M140 97h16m-8-8v16" stroke="#cdb6e1" stroke-width="1.5"/>
+</g>
+
+</svg>
