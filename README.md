@@ -1,60 +1,99 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg" width="100%" alt="Sharina — Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia." />
+</p>
 
-<p><strong>SOFTWARE DEVELOPMENT · SOLAR TECHNOLOGY · GEOSPATIAL TOOLS</strong></p>
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#on-my-radar">On my radar</a> &nbsp; / &nbsp;
+  <a href="https://github.com/nrsharina?tab=repositories">Repositories ↗</a>
+</p>
 
-<h1>Hi, I'm Sharina.</h1>
+<br>
 
-<p><strong>Building software that connects real work with better tools.</strong></p>
+<sub>01 / THE PERSON BEHIND THE CODE</sub>
 
-<p>Web applications, maintenance workflows, and equipment navigation.<br>
-Based in Malaysia.</p>
+## From field problems to software.
 
-[Explore my repositories](https://github.com/nrsharina?tab=repositories)
+I'm **Sharina**, a developer based in Malaysia. I build web applications and explore how software can support the people working behind everyday operations.
 
-</div>
+Working in a **solar farm environment** has shaped the problems I care about: maintenance workflows, equipment locations, and making operational information easier to use. That's where my interests in **software development, solar technology, and geospatial tools** meet.
 
----
+> I like starting with a practical question: **what would make this task easier for the person doing it?**
 
-### What I build
+<br>
 
-I'm a developer interested in the point where software meets day-to-day operations. My work includes web-based maintenance management and equipment navigation in a solar farm environment.
+<sub>02 / PROJECT EXPERIENCE</sub>
 
-I enjoy turning a practical problem into a clear workflow: understanding what a user needs to do, organising the information, and building an interface that helps them do it.
+## Selected work
 
-### Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 &nbsp; Maintenance management</h3>
+<p><strong>Bringing structure to operational work.</strong></p>
+<p>A web-based CMMS project centred on work requests, work orders, and maintenance workflows.</p>
+<p>My focus: translating an operational process into a usable application.</p>
+<br>
+<p><code>Laravel</code> <code>Tailwind CSS</code> <code>SQLite</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 &nbsp; Equipment navigation</h3>
+<p><strong>Connecting the task to the location.</strong></p>
+<p>Equipment mapping and navigation using QGIS and QField in a solar farm setting.</p>
+<p>The goal: open a work order and find the equipment that needs attention.</p>
+<br>
+<p><code>QGIS</code> <code>QField</code> <code>Geospatial</code></p>
+</td>
+</tr>
+</table>
 
-| Project | What I've worked on | Tools |
-| :--- | :--- | :--- |
-| **Maintenance management application** | A web-based CMMS project focused on work requests, work orders, and maintenance workflows. | Laravel · Tailwind CSS · SQLite |
-| **Solar equipment navigation** | Equipment mapping and navigation using QGIS and QField. The intended workflow connects a work order to the equipment's location. | QGIS · QField |
+<details>
+<summary><strong>A little more context ↴</strong></summary>
+<br>
 
-These summaries describe my project experience; public source code and demos are not linked here yet.
+These are summaries of my project experience. Public source code and demos for these projects are not available here yet.
 
-### My toolkit
+- **CMMS:** my application work uses Laravel, Tailwind CSS, and SQLite to explore maintenance processes.
+- **Navigation:** my mapping work uses QGIS and QField; connecting work orders to equipment navigation is the intended workflow.
 
-**Application development**  
-PHP · Laravel · Tailwind CSS · SQLite
+</details>
 
-**Mapping & field tools**  
-QGIS · QField
+<br>
 
-**Development workflow**  
-Git · GitHub · VS Code
+<sub>03 / WHAT I WORK WITH</sub>
 
-### What I'm exploring next
+## Toolkit
 
-- **Applied AI:** learning how Python and diagnostic logic could support early fault detection in solar equipment.
-- **Cybersecurity:** developing a foundation in security concepts and safer application design.
-- **Software engineering:** improving how I structure, document, and maintain projects.
+<p>
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/toolkit.svg" width="100%" alt="My toolkit: PHP, Laravel, Tailwind CSS, SQLite, QGIS, QField, Git, GitHub and VS Code." />
+</p>
 
-### What interests me
+<br>
 
-Practical web tools, renewable energy software, and applications that make operational work easier to follow.
+<sub>04 / THE NEXT QUESTIONS</sub>
 
-I'm interested in exchanging ideas with developers working on these problems.
+## On my radar
 
----
+| Area | What I want to understand better |
+| :--- | :--- |
+| **Applied AI & Python** | How diagnostic logic could help identify early signs of solar equipment faults. |
+| **Cybersecurity** | Security fundamentals and how to build safer applications. |
+| **Software engineering** | Clearer architecture, useful documentation, and maintainable code. |
 
-<div align="center">
-<sub>Understand the problem. Build something useful. Keep improving.</sub>
-</div>
+<br>
+
+<p align="center">
+  <strong>Interested in practical software, solar tech, or mapping?</strong><br>
+  I'd love to exchange ideas with people exploring these spaces.
+</p>
+
+<p align="center">
+  <a href="https://github.com/nrsharina?tab=repositories"><strong>Explore what I'm building ↗</strong></a>
+</p>
+
+<br>
+
+<p>
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/footer.svg" width="100%" alt="Make it useful. Make it clear. Make it better." />
+</p>
