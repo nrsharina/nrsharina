@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg" width="100%" alt="Sharina — Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg?v=motion-2" width="100%" alt="Sharina — Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia." />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ These are summaries of my project experience. Public source code and demos for t
 ## Toolkit
 
 <p>
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/toolkit.svg" width="100%" alt="My toolkit: PHP, Laravel, Tailwind CSS, SQLite, QGIS, QField, Git, GitHub and VS Code." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/toolkit.svg?v=motion-2" width="100%" alt="My toolkit: PHP, Laravel, Tailwind CSS, SQLite, QGIS, QField, Git, GitHub and VS Code." />
 </p>
 
 <br>
@@ -95,5 +95,5 @@ These are summaries of my project experience. Public source code and demos for t
 <br>
 
 <p>
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/footer.svg" width="100%" alt="Make it useful. Make it clear. Make it better." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/footer.svg?v=motion-2" width="100%" alt="Make it useful. Make it clear. Make it better." />
 </p>

@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="124" viewBox="0 0 1200 124" role="img" aria-label="The approach: Make it useful. Make it clear. Make it better.">
 <title>The approach: Make it useful. Make it clear. Make it better.</title>
 <defs><linearGradient id="line"><stop stop-color="#b8ffd9"/><stop offset="1" stop-color="#bc91e4"/></linearGradient></defs>
+<style>@keyframes trace{to{stroke-dashoffset:-1200}}.trace{animation:trace 10s linear infinite}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect width="1200" height="124" rx="18" fill="#1b1727"/>
+<path d="M28 2H1172" stroke="url(#line)" stroke-width="2" stroke-dasharray="140 1060" class="trace"/>
 <rect x="28" y="27" width="4" height="70" rx="2" fill="url(#line)"/>
 <text x="52" y="57" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#b8ffd9">THE APPROACH</text>
 <text x="52" y="89" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#f4ecfb">Make it useful. Make it clear. Make it better.</text>
