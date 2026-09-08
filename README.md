@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg?v=motion-2" width="100%" alt="Sharina — Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg?v=intern-3" width="100%" alt="Sharina — Intern in Malaysia. Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia." />
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#internship-projects">Internship projects</a> &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
   <a href="#on-my-radar">On my radar</a> &nbsp; / &nbsp;
   <a href="https://github.com/nrsharina?tab=repositories">Repositories ↗</a>
@@ -15,17 +15,17 @@
 
 ## From field problems to software.
 
-I'm **Sharina**, a developer based in Malaysia. I build web applications and explore how software can support the people working behind everyday operations.
+I'm **Sharina**, currently completing my **internship in a solar farm environment in Malaysia**. I'm learning through hands-on projects in web development and equipment mapping.
 
-Working in a **solar farm environment** has shaped the problems I care about: maintenance workflows, equipment locations, and making operational information easier to use. That's where my interests in **software development, solar technology, and geospatial tools** meet.
+My **internship experience** has introduced me to practical challenges such as maintenance workflows, equipment locations, and making operational information easier to use. This is where my interests in **software development, solar technology, and geospatial tools** meet.
 
 > I like starting with a practical question: **what would make this task easier for the person doing it?**
 
 <br>
 
-<sub>02 / PROJECT EXPERIENCE</sub>
+<sub>02 / INTERNSHIP EXPERIENCE</sub>
 
-## Selected work
+## Internship projects
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ Working in a **solar farm environment** has shaped the problems I care about: ma
 <summary><strong>A little more context ↴</strong></summary>
 <br>
 
-These are summaries of my project experience. Public source code and demos for these projects are not available here yet.
+These are summaries of projects I've worked on during my internship. Public source code and demos for these projects are not available here yet.
 
 - **CMMS:** my application work uses Laravel, Tailwind CSS, and SQLite to explore maintenance processes.
 - **Navigation:** my mapping work uses QGIS and QField; connecting work orders to equipment navigation is the intended workflow.
