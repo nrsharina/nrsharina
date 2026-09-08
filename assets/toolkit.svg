@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="206" viewBox="0 0 1200 206" role="img" aria-label="Toolkit: PHP, Laravel, Tailwind CSS, SQLite, QGIS, QField, Git, GitHub and VS Code.">
+<title>Toolkit: PHP, Laravel, Tailwind CSS, SQLite, QGIS, QField, Git, GitHub and VS Code.</title>
+<rect width="1200" height="206" rx="18" fill="#1b1727"/><rect x="24" y="22" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="40" y="48" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">01</text>
+<text x="40" y="77" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">PHP</text><rect x="256" y="22" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="272" y="48" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">02</text>
+<text x="272" y="77" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">Laravel</text><rect x="488" y="22" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="504" y="48" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">03</text>
+<text x="504" y="77" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">Tailwind CSS</text><rect x="720" y="22" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="736" y="48" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">04</text>
+<text x="736" y="77" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">SQLite</text><rect x="952" y="22" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="968" y="48" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">05</text>
+<text x="968" y="77" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">QGIS</text><rect x="24" y="110" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="40" y="136" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">06</text>
+<text x="40" y="165" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">QField</text><rect x="256" y="110" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="272" y="136" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">07</text>
+<text x="272" y="165" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">Git</text><rect x="488" y="110" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="504" y="136" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">08</text>
+<text x="504" y="165" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">GitHub</text><rect x="720" y="110" width="224" height="74" rx="12" fill="#282134" stroke="#45364f"/>
+<text x="736" y="136" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#b8ffd9" letter-spacing="2">09</text>
+<text x="736" y="165" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#f4ecfb">VS Code</text><text x="969" y="155" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#c5b8d2">TOOLS → IDEAS → CODE</text>
+</svg>
