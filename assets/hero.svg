@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Sharina. Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia.">
-<title>Sharina. Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Please Hire Me. Sharina is actively job hunting. Web applications, solar tech and geospatial tools. Based in Malaysia.">
+<title>Please Hire Me. Sharina is actively job hunting. Web applications, solar tech and geospatial tools. Based in Malaysia.</title>
 
 <defs>
   <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14121f"/><stop offset="1" stop-color="#30203e"/></linearGradient>
   <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b8ffd9"/><stop offset=".5" stop-color="#c2b3ff"/><stop offset="1" stop-color="#e69cc9"/></linearGradient>
   <radialGradient id="halo"><stop stop-color="#be91e9" stop-opacity=".23"/><stop offset="1" stop-color="#be91e9" stop-opacity="0"/></radialGradient>
-  <clipPath id="name"><text x="41" y="241" font-family="DejaVu Sans,Arial,sans-serif" font-size="106" font-weight="700" letter-spacing="-6">Sharina.</text></clipPath>
+  <clipPath id="name"><text x="44" y="241" font-family="DejaVu Sans,Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="-4">Please Hire Me.</text></clipPath>
   <linearGradient id="sheen"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
 </defs>
@@ -30,14 +30,14 @@
 <text x="106" y="61" fill="#e9e4f4" font-size="17" letter-spacing="2">NRSHARINA</text>
 <circle cx="991" cy="54" r="4" fill="#b8ffd9" class="beacon"/>
 <text x="1006" y="60" fill="#c4b9d3" font-size="15" letter-spacing="2">MALAYSIA</text>
-<text x="48" y="132" fill="#b8ffd9" font-size="16" letter-spacing="3">INTERN / LEARNING BY BUILDING</text>
-<text x="41" y="241" fill="#f7f1ff" font-size="106" font-weight="700" letter-spacing="-6">Sharina<tspan fill="#b8ffd9">.</tspan></text>
+<text x="48" y="132" fill="#b8ffd9" font-size="16" letter-spacing="3">OPEN TO WORK / ACTIVELY JOB HUNTING</text>
+<text x="44" y="241" fill="#f7f1ff" font-size="82" font-weight="700" letter-spacing="-4">Please Hire Me<tspan fill="#b8ffd9">.</tspan></text>
 <g clip-path="url(#name)"><rect x="0" y="145" width="220" height="115" fill="url(#sheen)" class="shine"/></g>
-<text x="48" y="298" fill="#f4ecfb" font-size="30">Real problems. Thoughtful software.</text>
+<text x="48" y="298" fill="#f4ecfb" font-size="28">I’m Sharina. Let’s build something useful.</text>
 <text x="48" y="338" fill="#c4b9d3" font-size="19">Web applications · Solar tech · Geospatial tools</text>
 <path d="M48 390H1152" stroke="#786685" stroke-opacity=".45"/>
 <text x="48" y="428" fill="#b8ffd9" font-size="14" letter-spacing="2">UNDERSTAND → BUILD → REFINE</text>
-<text x="855" y="428" fill="#c4b9d3" font-size="14" letter-spacing="2">ALWAYS A WORK IN PROGRESS</text>
+<text x="1152" y="428" text-anchor="end" fill="#c4b9d3" font-size="14" letter-spacing="2">LOOKING FOR MY NEXT OPPORTUNITY</text>
 </g>
 <!-- Imaginary orbital coding lab; decorative artwork, not an architecture diagram. -->
 <g transform="translate(957 356)" fill="none" stroke="#b8ffd9" stroke-opacity=".25">
