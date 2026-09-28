@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/9df2fbf4aaa9cd9e9231a290d2253ec0b8ff3a60/assets/hero.svg" width="100%" alt="Please Hire Me — Sharina is actively job hunting. Web applications, solar tech and geospatial tools. Based in Malaysia." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/82d1ee3004f2e05fbe3d6503a788e05f828d684a/assets/hero.svg" width="100%" alt="Please hire me. Looking for a team to commit to. Sharina is actively job hunting in Malaysia. A playful terminal reads git commit to hire Sharina, with a sticky note: Plot twist, you are hiring?" />
 </p>
 
 <p align="center">
