@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg?v=job-hunting-1" width="100%" alt="Please Hire Me — Sharina is actively job hunting. Web applications, solar tech and geospatial tools. Based in Malaysia." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/9df2fbf4aaa9cd9e9231a290d2253ec0b8ff3a60/assets/hero.svg" width="100%" alt="Please Hire Me — Sharina is actively job hunting. Web applications, solar tech and geospatial tools. Based in Malaysia." />
 </p>
 
 <p align="center">
