@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg?v=intern-3" width="100%" alt="Sharina — Intern in Malaysia. Real problems. Thoughtful software. Web applications, solar tech and geospatial tools. Based in Malaysia." />
+  <img src="https://raw.githubusercontent.com/nrsharina/nrsharina/main/assets/hero.svg?v=job-hunting-1" width="100%" alt="Please Hire Me — Sharina is actively job hunting. Web applications, solar tech and geospatial tools. Based in Malaysia." />
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@
 ## From field problems to software.
 
 I'm **Sharina**, currently completing my **internship in a solar farm environment in Malaysia**. I'm learning through hands-on projects in web development and equipment mapping.
+
+**I'm actively job hunting** and would love to connect with teams building practical software.
 
 My **internship experience** has introduced me to practical challenges such as maintenance workflows, equipment locations, and making operational information easier to use. This is where my interests in **software development, solar technology, and geospatial tools** meet.
 
